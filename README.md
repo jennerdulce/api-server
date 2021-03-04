@@ -39,4 +39,4 @@
 
 #### UML
 
-![UML Example](./UML.png);
+![UML Example](./UML.jpg);
