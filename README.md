@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/jennerdulce/basic-express-server/actions) (GitHub Actions)
-- [Pull Request](https://github.com/jennerdulce/basic-express-server/pull/3)
-- [HEROKU App](https://jennerdulce-basic-express-serv.herokuapp.com/)
+- [ci/cd](https://github.com/jennerdulce/api-server/actions) (GitHub Actions)
+- [Pull Request](https://github.com/jennerdulce/api-server/pull/1)
+- [HEROKU App](https://jennerdulce-api-server.herokuapp.com/)
 
 ### Setup
 
